@@ -48,6 +48,7 @@ import isBefore from "date-fns/isBefore";
 import isWithinInterval from "date-fns/isWithinInterval";
 import toDate from "date-fns/toDate";
 import parse from "date-fns/parse";
+import { window } from "browser-monads";
 
 // ** Date Constructors **
 

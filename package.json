@@ -1,10 +1,10 @@
 {
-  "author": "HackerOne",
-  "name": "react-datepicker",
+  "author": "Gus Fune",
+  "name": "@gusfune/react-datepicker",
   "description": "A simple and reusable datepicker component for React",
   "version": "2.4.0",
   "license": "MIT",
-  "homepage": "https://github.com/Hacker0x01/react-datepicker",
+  "homepage": "https://github.com/gusfune/react-datepicker",
   "main": "lib/index.js",
   "module": "es",
   "unpkg": "dist/react-datepicker.min.js",
@@ -100,6 +100,7 @@
     "react-dom": "^16.0.0"
   },
   "dependencies": {
+    "browser-monads": "^1.0.0",
     "classnames": "^2.2.5",
     "date-fns": "^2.0.0-alpha.23",
     "prop-types": "^15.6.0",
